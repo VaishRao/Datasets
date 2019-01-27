@@ -1,0 +1,283 @@
+financial_year,facility_type,category,no_of_units
+2006,Childcare Centres,Sold,na
+2006,Childcare Centres,Rented,13
+2006,Education Centres,Sold,na
+2006,Education Centres,Rented,15
+2006,Social Service Centres,Sold,na
+2006,Social Service Centres,Rented,13
+2006,Residents' Committee Centres,Sold,na
+2006,Residents' Committee Centres,Rented,17
+2006,Day Activity Centres,Sold,na
+2006,Day Activity Centres,Rented,3
+2006,Medical Service Centres,Sold,na
+2006,Medical Service Centres,Rented,7
+2006,Neighbourhood Links,Sold,na
+2006,Neighbourhood Links,Rented,6
+2006,Senior Citizens' Centres,Sold,na
+2006,Senior Citizens' Centres,Rented,1
+2006,Town Council Offices,Sold,na
+2006,Town Council Offices,Rented,1
+2006,Student Care Centres,Sold,na
+2006,Student Care Centres,Rented,6
+2006,Hospice Care Satellite Centres,Sold,na
+2006,Hospice Care Satellite Centres,Rented,1
+2007,Childcare Centres,Sold,na
+2007,Childcare Centres,Rented,5
+2007,Education Centres,Sold,na
+2007,Education Centres,Rented,16
+2007,Social Service Centres,Sold,na
+2007,Social Service Centres,Rented,5
+2007,Residents' Committee Centres,Sold,na
+2007,Residents' Committee Centres,Rented,15
+2007,Day Activity Centres,Sold,na
+2007,Day Activity Centres,Rented,11
+2007,Neighbourhood Links,Sold,na
+2007,Neighbourhood Links,Rented,1
+2007,Rehabilitation Centres,Sold,na
+2007,Rehabilitation Centres,Rented,3
+2007,Kidney Dialysis Centres,Sold,na
+2007,Kidney Dialysis Centres,Rented,1
+2007,Senior Citizens' Centres,Sold,na
+2007,Senior Citizens' Centres,Rented,1
+2007,Study Centres,Sold,na
+2007,Study Centres,Rented,1
+2007,Youth Centres,Sold,na
+2007,Youth Centres,Rented,1
+2007,Community Centres,Sold,na
+2007,Community Centres,Rented,2
+2007,Hospice Care Satellite Centres,Sold,na
+2007,Hospice Care Satellite Centres,Rented,1
+2008,Childcare Centres,Sold,na
+2008,Childcare Centres,Rented,6
+2008,Education Centres,Sold,na
+2008,Education Centres,Rented,7
+2008,Social Service Centres,Sold,na
+2008,Social Service Centres,Rented,5
+2008,Residents' Committee Centres,Sold,na
+2008,Residents' Committee Centres,Rented,11
+2008,Day Activity Centres (Disabled & Senior Citizens),Sold,na
+2008,Day Activity Centres (Disabled & Senior Citizens),Rented,11
+2008,Diabetes Education & Care Centre,Sold,na
+2008,Diabetes Education & Care Centre,Rented,1
+2008,Rehabilitation Day Care Centres,Sold,na
+2008,Rehabilitation Day Care Centres,Rented,2
+2008,Kidney Dialysis Centres,Sold,na
+2008,Kidney Dialysis Centres,Rented,3
+2008,Medical Free Clinics,Sold,na
+2008,Medical Free Clinics,Rented,3
+2008,Satellite Fire Post,Sold,na
+2008,Satellite Fire Post,Rented,1
+2008,Senior Citizens' Centres,Sold,na
+2008,Senior Citizens' Centres,Rented,1
+2008,Student Care Centres,Sold,na
+2008,Student Care Centres,Rented,2
+2008,Student Service Centres,Sold,na
+2008,Student Service Centres,Rented,1
+2008,Dyslexia Learning Centres,Sold,na
+2008,Dyslexia Learning Centres,Rented,2
+2009,Childcare Centres,Sold,na
+2009,Childcare Centres,Rented,21
+2009,Education Centres,Sold,na
+2009,Education Centres,Rented,15
+2009,Social Service Centres,Sold,na
+2009,Social Service Centres,Rented,6
+2009,Residents' Committee Centres,Sold,na
+2009,Residents' Committee Centres,Rented,16
+2009,Day Activity Centres (Disabled & Senior Citizens),Sold,na
+2009,Day Activity Centres (Disabled & Senior Citizens),Rented,2
+2009,Rehabilitation Day Care Centres,Sold,na
+2009,Rehabilitation Day Care Centres,Rented,1
+2009,Kidney Dialysis Centres,Sold,na
+2009,Kidney Dialysis Centres,Rented,1
+2009,Medical Free Clinics,Sold,na
+2009,Medical Free Clinics,Rented,1
+2009,Senior Citizens' Centres,Sold,na
+2009,Senior Citizens' Centres,Rented,2
+2009,Student Care Centres,Sold,na
+2009,Student Care Centres,Rented,2
+2009,Youth Centres,Sold,na
+2009,Youth Centres,Rented,1
+2010,Childcare Centres,Sold,na
+2010,Childcare Centres,Rented,80
+2010,Education Centres,Sold,na
+2010,Education Centres,Rented,9
+2010,Social Service Centres,Sold,na
+2010,Social Service Centres,Rented,8
+2010,Residents' Committee Centres,Sold,na
+2010,Residents' Committee Centres,Rented,22
+2010,Day Activity Centres (Disabled & Senior Citizens),Sold,na
+2010,Day Activity Centres (Disabled & Senior Citizens),Rented,12
+2010,Rehabilitation Day Care Centres,Sold,na
+2010,Rehabilitation Day Care Centres,Rented,5
+2010,Kidney Dialysis Centres,Sold,na
+2010,Kidney Dialysis Centres,Rented,1
+2010,Medical Free Clinics,Sold,na
+2010,Medical Free Clinics,Rented,1
+2010,Youth Centres,Sold,na
+2010,Youth Centres,Rented,1
+2011,Childcare Centres,Sold,na
+2011,Childcare Centres,Rented,47
+2011,Education Centres,Sold,na
+2011,Education Centres,Rented,11
+2011,Social Service Centres,Sold,na
+2011,Social Service Centres,Rented,1
+2011,Student Care Centres,Sold,na
+2011,Student Care Centres,Rented,1
+2011,Student Service Centres,Sold,na
+2011,Student Service Centres,Rented,1
+2011,Residents' Committee Centres,Sold,na
+2011,Residents' Committee Centres,Rented,10
+2011,Day Activity Centres (Disabled & Senior Citizens),Sold,na
+2011,Day Activity Centres (Disabled & Senior Citizens),Rented,12
+2011,Senior Citizens' Centres,Sold,na
+2011,Senior Citizens' Centres,Rented,1
+2011,Rehabilitation Day Care Centres,Sold,na
+2011,Rehabilitation Day Care Centres,Rented,1
+2011,Kidney Dialysis Centres,Sold,na
+2011,Kidney Dialysis Centres,Rented,1
+2011,Medical Free Clinics,Sold,na
+2011,Medical Free Clinics,Rented,1
+2011,Dyslexia Learning Centres,Sold,na
+2011,Dyslexia Learning Centres,Rented,1
+2012,Childcare Centres,Sold,na
+2012,Childcare Centres,Rented,53
+2012,Education Centres,Sold,na
+2012,Education Centres,Rented,16
+2012,Family Service Centres,Sold,na
+2012,Family Service Centres,Rented,1
+2012,Kidney Dialysis Centres,Sold,na
+2012,Kidney Dialysis Centres,Rented,1
+2012,Medical Free Clinics,Sold,na
+2012,Medical Free Clinics,Rented,4
+2012,Residents' Committee Centres,Sold,na
+2012,Residents' Committee Centres,Rented,10
+2012,Rehabilitation Day Care Centres,Sold,na
+2012,Rehabilitation Day Care Centres,Rented,3
+2012,Senior Activity Centres,Sold,na
+2012,Senior Activity Centres,Rented,6
+2012,Senior Citizens' Centres,Sold,na
+2012,Senior Citizens' Centres,Rented,1
+2012,Social Service Centres,Sold,na
+2012,Social Service Centres,Rented,3
+2012,Youth Centres,Sold,na
+2012,Youth Centres,Rented,1
+2012,Dyslexia Learning Centres,Sold,na
+2012,Dyslexia Learning Centres,Rented,2
+2013,Childcare Centres,Sold,na
+2013,Childcare Centres,Rented,45
+2013,Day Activity Centres (Disabled),Sold,na
+2013,Day Activity Centres (Disabled),Rented,2
+2013,Day Activity Centres (Senior Citizens),Sold,na
+2013,Day Activity Centres (Senior Citizens),Rented,3
+2013,Education Centres,Sold,na
+2013,Education Centres,Rented,12
+2013,Family Service Centres,Sold,na
+2013,Family Service Centres,Rented,6
+2013,Medical Free Clinics,Sold,na
+2013,Medical Free Clinics,Rented,2
+2013,Residents' Committee Centres,Sold,na
+2013,Residents' Committee Centres,Rented,2
+2013,Rehabilitation Day Care Centres,Sold,na
+2013,Rehabilitation Day Care Centres,Rented,5
+2013,Satellite Fire Post,Sold,na
+2013,Satellite Fire Post,Rented,2
+2013,Senior Activity Centres,Sold,na
+2013,Senior Activity Centres,Rented,9
+2013,Social Service Centres,Sold,na
+2013,Social Service Centres,Rented,3
+2013,Social Service Office,Sold,na
+2013,Social Service Office,Rented,3
+2013,Student Service Centres,Sold,na
+2013,Student Service Centres,Rented,1
+2013,Void Deck Community Centre,Sold,na
+2013,Void Deck Community Centre,Rented,1
+2013,Dyslexia Learning Centres,Sold,na
+2013,Dyslexia Learning Centres,Rented,1
+2014,Childcare Centres,Sold,na
+2014,Childcare Centres,Rented,27
+2014,Community Centres,Sold,na
+2014,Community Centres,Rented,1
+2014,Day Activity Centres (Disabled),Sold,na
+2014,Day Activity Centres (Disabled),Rented,1
+2014,Day Activity Centres (Senior Citizens),Sold,na
+2014,Day Activity Centres (Senior Citizens),Rented,1
+2014,Education Centres,Sold,na
+2014,Education Centres,Rented,10
+2014,Family Service Centres,Sold,na
+2014,Family Service Centres,Rented,3
+2014,Hospice Care Satellite Centres,Sold,na
+2014,Hospice Care Satellite Centres,Rented,1
+2014,Medical Free Clinics,Sold,na
+2014,Medical Free Clinics,Rented,2
+2014,Pioneer Generation Office,Sold,na
+2014,Pioneer Generation Office,Rented,1
+2014,Rehabilitation Day Care Centres,Sold,na
+2014,Rehabilitation Day Care Centres,Rented,2
+2014,Residents' Committee Centres,Sold,na
+2014,Residents' Committee Centres,Rented,16
+2014,Satellite Fire Post,Sold,na
+2014,Satellite Fire Post,Rented,2
+2014,Senior Activity Centres,Sold,na
+2014,Senior Activity Centres,Rented,10
+2014,Senior Care Centres,Sold,na
+2014,Senior Care Centres,Rented,2
+2014,Social Service Centres,Sold,na
+2014,Social Service Centres,Rented,5
+2015,Childcare Centres,Sold,na
+2015,Childcare Centres,Rented,40
+2015,Community Centres,Sold,na
+2015,Community Centres,Rented,2
+2015,Day Activity Centres (Disabled),Sold,na
+2015,Day Activity Centres (Disabled),Rented,1
+2015,Day Activity Centres (Senior Citizens),Sold,na
+2015,Day Activity Centres (Senior Citizens),Rented,10
+2015,Education Centres,Sold,na
+2015,Education Centres,Rented,3
+2015,Family Service Centres,Sold,na
+2015,Family Service Centres,Rented,1
+2015,Hospice Care Satellite Centres,Sold,na
+2015,Hospice Care Satellite Centres,Rented,3
+2015,Medical Free Clinics,Sold,na
+2015,Medical Free Clinics,Rented,1
+2015,Pioneer Generation Office,Sold,na
+2015,Pioneer Generation Office,Rented,31
+2015,Rehabilitation Day Care Centres,Sold,na
+2015,Rehabilitation Day Care Centres,Rented,12
+2015,Residents' Committee Centres,Sold,na
+2015,Residents' Committee Centres,Rented,5
+2015,Satellite Fire Post,Sold,na
+2015,Satellite Fire Post,Rented,9
+2015,Senior Activity Centres,Sold,na
+2015,Senior Activity Centres,Rented,3
+2015,Senior Care Centres,Sold,na
+2015,Senior Care Centres,Rented,1
+2015,Social Service Centres,Sold,na
+2015,Social Service Centres,Rented,6
+2016,Childcare Centres,Sold,na
+2016,Childcare Centres,Rented,51
+2016,Community Centres,Sold,na
+2016,Community Centres,Rented,3
+2016,Day Activity Centres (Disabled),Sold,na
+2016,Day Activity Centres (Disabled),Rented,1
+2016,Education Centres,Sold,na
+2016,Education Centres,Rented,5
+2016,Kidney Dialysis Centre,Sold,na
+2016,Kidney Dialysis Centre,Rented,2
+2016,Medical Free Clinics,Sold,na
+2016,Medical Free Clinics,Rented,3
+2016,Rehabilitation Day Care Centres,Sold,na
+2016,Rehabilitation Day Care Centres,Rented,1
+2016,Residents' Committee Centres,Sold,na
+2016,Residents' Committee Centres,Rented,26
+2016,Senior Citizens' Centre,Sold,na
+2016,Senior Citizens' Centre,Rented,2
+2016,Senior Activity Centre,Sold,na
+2016,Senior Activity Centre,Rented,15
+2016,Senior Activity Centre (Studio Apartments),Sold,na
+2016,Senior Activity Centre (Studio Apartments),Rented,18
+2016,Senior Care Centre,Sold,na
+2016,Senior Care Centre,Rented,1
+2016,Social Service Centre,Sold,na
+2016,Social Service Centre,Rented,18
+2016,Student Care Centre,Sold,na
+2016,Student Care Centre,Rented,2
